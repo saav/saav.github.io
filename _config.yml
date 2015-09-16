@@ -9,7 +9,7 @@ relative_permalinks: true
 # Setup
 title:            Savin Varshney
 tagline:          'A Jekyll theme'
-description:      yosaav
+description:      Software Engineer<br>Web Developer
 url:              http://hyde.getpoole.com
 baseurl:          /
 

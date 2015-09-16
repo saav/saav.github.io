@@ -4,8 +4,10 @@ title: About
 ---
 
 <p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
+  Hey there! I am Savin Varshney. Call me saav
 </p>
+
+<center><img src="{{ site.baseurl }}public/savin.jpg" height = "750" width="450" alt="Savin Varshney" align="middle"></center>
 
 In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
 
@@ -25,6 +27,6 @@ Some fun facts about the setup of this project include:
 * Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
 * Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
 
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
+Have questions or suggestions? Feel free to [ask me on email](mailto:savin.varshney@gmail.com)
 
 Thanks for reading!
