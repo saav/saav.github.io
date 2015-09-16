@@ -3,13 +3,21 @@
 
   {% include head.html %}
 
-  <body class="theme-base-08 layout-reverse">
+  <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/style.css" />
+
+  <body class="layout-reverse">
 
     {% include sidebar.html %}
 
     <div class="content container">
       {{ content }}
     </div>
+
+    <!-- <div class="wrapper-footer">
+      <footer class="footer">
+      	{% include svg-icons.html %}
+      </footer>
+    </div> -->
 
   </body>
 </html>
