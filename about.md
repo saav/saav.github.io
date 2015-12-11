@@ -9,9 +9,13 @@ title: About
 
 <center><img src="{{ site.baseurl }}public/savin.jpg" height = "750" width="450" alt="Savin Varshney" align="middle"></center>
 
-## Setup
+I am curremtly a junior at National University Of Singapore majoring in Computer Science.
+Some thing I am interested in - Information Security, Networks, Graphics and Gaming.
+When I am not studying I ussually sleep or watching TV shows or playing Games.
 
-Some fun facts about the setup of this project include:
+## Fun Facts
+
+Some fun facts about me are:
 
 
 Have questions or suggestions? Feel free to [ask me on email](mailto:savin.varshney@gmail.com)
