@@ -26,16 +26,24 @@
         {% endif %}
       {% endfor %}
       
-      <a class="sidebar-nav-item" href="https://www.facebook.com/{{ site.footer-links.facebook }}">Facebook</a>
-      <a class="sidebar-nav-item" href="https://www.twitter.com/{{ site.footer-links.twitter }}">Twitter</a>
-      <a class="sidebar-nav-item" href="https://www.quora.com/profile/{{ site.footer-links.quora }}">Quora</a>
-      <a class="sidebar-nav-item" href="https://medium.com/@{{ site.footer-links.medium }}">Medium</a>
-      <a class="sidebar-nav-item" href="https://sg.linkedin.com/in/{{ site.footer-links.linkedin }}">LinkedIn</a>
-      <a class="sidebar-nav-item" href="{{ site.github.repo }}">GitHub</a>
       <a class="sidebar-nav-item" href="{{ site.baseurl }}public/savin-resume.pdf">Resume</a>
-      <span class="sidebar-nav-item">YoSaav {{ site.version }}</span>
     </nav>
+    <p>
+      <a href="{{ site.github.repo }}"><i class="fa fa-github"></i></a>
+      &nbsp;&nbsp;
+      <a href="https://sg.linkedin.com/in/{{ site.footer-links.linkedin }}"><i class="fa fa-linkedin-square"></i></a>
+      &nbsp;&nbsp;
+      <a href="https://www.quora.com/profile/{{ site.footer-links.quora }}"><i class="fa fa-opera"></i></a>
+    </p>
+    <p>
+      <a href="https://www.facebook.com/{{ site.footer-links.facebook }}"><i class="fa fa-facebook"></i></a>
+      &nbsp;&nbsp;
+      <a href="https://www.twitter.com/{{ site.footer-links.twitter }}"><i class="fa fa-twitter"></i></a>
+      &nbsp;&nbsp;
+      <a href="https://medium.com/@{{ site.footer-links.medium }}"><i class="fa fa-medium"></i></a>
+    </p>
 
+    <span class="sidebar-nav-item">YoSaav {{ site.version }}</span>
     <p>&copy; {{ site.time | date: '%Y' }}. All rights reserved.</p>
   </div>
 </div>
