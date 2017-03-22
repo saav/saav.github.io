@@ -7,11 +7,12 @@ title: About
   Hey there! I am Savin Varshney. Call me saav
 </p>
 
-<center><img src="{{ site.baseurl }}public/savin.jpg" height = "750" width="450" alt="Savin Varshney" align="middle"></center>
+<center><img src="/public/savin.jpg" height = "750" width="450" alt="Savin Varshney" align="middle"></center>
 
-I am curremtly a junior at National University Of Singapore majoring in Computer Science.
+I am currently a Senior at National University Of Singapore majoring in Computer Science.(Expected Graduation May 2017)
 Some thing I am interested in - Information Security, Networks, Graphics and Gaming.
-When I am not studying I ussually sleep or watching TV shows or playing Games.
+When I am not studying I usually watch TV shows or like playing Games.
+
 
 ## Fun Facts
 
